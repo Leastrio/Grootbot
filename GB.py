@@ -45,4 +45,4 @@ async def ping(ctx):
     await ctx.send(f'Pong! {round(client.latency * 1000)}ms')
 
 
-client.run('NzEyMTA0MTMwODk3NzcyNjM0.XsMtxw.VqAWstpZshOo2jwVihZ9nFyr7L4')
+client.run('TOKEN')
